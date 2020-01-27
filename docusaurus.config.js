@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Game B Guide Gamma",
+  title: "Game B Guide δ",
   tagline: "A Game B Player's Manual",
   url: "https://gameb.guide",
   baseUrl: "/",
